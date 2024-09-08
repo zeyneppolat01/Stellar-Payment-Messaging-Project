@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "soroban-client": "^1.0.1",
+    "stellar-sdk": "^12.2.0"
+  }
+}
